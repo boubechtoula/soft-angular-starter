@@ -1,1 +1,1 @@
-# angular-starter for projects with boottrab.  
+# angular-starter for projects with bootstrap.  
